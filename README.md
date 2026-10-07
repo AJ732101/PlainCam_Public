@@ -17,3 +17,5 @@ The base of PlainCam and PlainCamX are ISP processed single shot captures
 ## Features
 
 ## User Interface
+
+## Longpress Actions
