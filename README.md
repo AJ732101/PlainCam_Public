@@ -71,7 +71,12 @@ Example: 0,0-2,2
 </table>
 
 ## Longpress Actions
-...
+Most controls/buttons have a second function aside from their primary purpose  
+* Settings Button: quick access to contrast curves selection
+* Exposure (Saturation/Contrast/Sharpness/Zoom/Focus/ISO/Shutter) Toggle: back to exposure dial function
+* Vendor Keys Button: quick access to vendor keys manager
+* Gallery Button: selection of default viewer app
+* Viewfinder: quick access to LUT selection (only works with formats that support LUTs)
 
 ## Other interesting (RAW based) Android Camera Apps
 [Rawr](https://github.com/adityawarmanfw/rawr/releases/tag/v0.2.0)  
