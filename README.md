@@ -42,7 +42,7 @@ Example: 0,0-2,2
 <table>
   <tr>
     <td align="center">
-      <b>Viewfinder</b><br>
+      <b>Viewfinder (Shitter Speed -> Shutter Speed)</b><br>
       <img src="Screenshots/Viewfinder.png" width="100%" alt="Viewfinder">
     </td>
     <td align="center">
