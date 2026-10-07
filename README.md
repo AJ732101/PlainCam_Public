@@ -1,5 +1,5 @@
 # PlainCam(X) Public
-Public part of PlainCam(X) providing APKs and additional documentation
+Public part of the Android camera app PlainCam(X) providing APKs and additional documentation
 
 ## Links
 Latest Build [![Telegram - ENG](https://img.shields.io/badge/Telegram-ENG-blue)](https://t.me/PhotonVidCam)  
