@@ -1,6 +1,11 @@
 # PlainCam(X) Public
 Public part of PlainCam(X) providing APKs and additional documentation
 
+## Links
+
+Latest Build [![Telegram - ENG](https://img.shields.io/badge/Telegram-ENG-blue)](https://t.me/PhotonVidCam)  
+Group Chat and Feedback [![Telegram Photon Camera - ENG](https://img.shields.io/badge/Telegram-ENG-blue)](https://t.me/PhotonVidCamAndDngMaster)  
+
 ## PlainCam and PlainCamX
 PlainCam tries to follow all the rules to be Google Play Store compliant  
 PlainCamX is not bound by these restrictions and uses techniques like reflection to e.g. discover as much device vendor keys as possible
