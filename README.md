@@ -23,7 +23,7 @@ It follows a different approach to all the RAW based camera apps like GCam, Moti
 The base of PlainCam and PlainCamX are ISP processed single shot captures
 
 ## Audience
-Photo enthusiasts tired of noise obliterated, fake sharpness "enhanced" and HDR everywhere if it fits or not  
+Photo enthusiasts tired of noise obliterated, fake sharpness "enhanced" images with HDR everywhere if it fits or not  
 Users who like natural deatils and contrasty look (depending on selected contrast curve) like like this app  
 Users who like the exposure dial and are not afraid of changing settings to get a dedicated result  
 
