@@ -15,7 +15,38 @@ It follows a different approach to all the RAW based camera apps like GCam, Moti
 The base of PlainCam and PlainCamX are ISP processed single shot captures
 
 ## Features
+* GTM (Global Tone Mapping) in form of ___Contrast Curves___ (low dynamic range, low noise))
+* Support for ___Per Lens___ (Camera Module) settings
+* Support for ___Per Format___ settings
+* LUT support (PNG and CUBE)
+* Ultra HDR
+* Histogram
+* Enhanced metadata (using tags IMAGE_DESCRIPTION and USER_COMMENT)
+* Vendor Keys Manager (key discovery only in PlainCamX)
+* Virtual Horizon
 
 ## User Interface
+<table>
+  <tr>
+    <td align="center">
+      <b>Viewfinder</b><br>
+      <img src="Screenshots/Viewfinder.png" width="100%" alt="Viewfinder">
+    </td>
+    <td align="center">
+      <b>Longpress Actions</b><br>
+      <img src="Screenshots/Longpress_Actions.jpg" width="100%" alt="Longpress Actions">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Formats</b><br>
+      <img src="Screenshots/Formats.jpg" width="100%" alt="Formats">
+    </td>
+    <td align="center">
+      <b>Contrast Curves</b><br>
+      <img src="Screenshots/ContrastCurves.jpg" width="100%" alt="Contrast Curves">
+    </td>
+  </tr>
+</table>
 
 ## Longpress Actions
