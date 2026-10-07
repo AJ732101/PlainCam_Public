@@ -15,9 +15,17 @@ All extended functions are available starting with Android 14 (API 34)
 Should work on devices without any RAW support as well
 
 ## PlainCam(X) Motivation/Purpose
+The ISPs of SoCs are typically better than their reputation mostly reflected publicly by bad stock camera implementations  
+This project wants to let these ISPs shine  
+
 PlainCam(X) is a greenfield camera implementation build upon learnings from PhotonVidCam development  
 It follows a different approach to all the RAW based camera apps like GCam, MotionCam, Photon Camera and a lot of new contenders appeared in 2026  
 The base of PlainCam and PlainCamX are ISP processed single shot captures
+
+## Audience
+Photo enthusiasts tired of noise obliterated, fake sharpness "enhanced" and HDR everywhere if it fits or not  
+Users who like natural deatils and contrasty look (depending on selected contrast curve) like like this app  
+Users who like the exposure dial and are not afraid of changing settings to get a dedicated result  
 
 ## Basic Configuration
 PlainCam(X) does not include a camera module (ID) detection  
@@ -32,7 +40,7 @@ Example: 0,0-2,2
 * Support for ___Per Lens___ (Camera Module) settings
 * Support for ___Per Format___ settings
 * LUT support (PNG and CUBE)
-* Ultra HDR
+* Ultra HDR (gain map based real HDR in JPEGs)
 * Histogram
 * Enhanced metadata (using tags IMAGE_DESCRIPTION and USER_COMMENT)
 * Vendor Keys Manager (key discovery only in PlainCamX)
