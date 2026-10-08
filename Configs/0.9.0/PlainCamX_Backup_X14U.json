@@ -1,0 +1,138 @@
+{
+    "Capture Settings": {
+        "camera_ids": "2,3,4,5,0,1",
+        "current_camera_id": "0",
+        "image_format": "private",
+        "image_quality": 100,
+        "frame_count": 15,
+        "mfnr_sharpness_threshold": 80,
+        "lut_folder_uri": "content:\/\/com.android.externalstorage.documents\/tree\/primary%3ADCIM%2FLUTs",
+        "selected_lut": "none",
+        "preview_template": "3",
+        "capture_template": "3",
+        "sw_colorspace": "EXTENDED_SRGB",
+        "contrast_curve": "slog2",
+        "enable_histogram_stretching": false,
+        "enable_20mp_upscale": false,
+        "enable_highlight_protection": false,
+        "enable_highlight_recovery": false,
+        "enable_image_description": true,
+        "gps_location": false
+    },
+    "White Balance": {
+        "wb_temperature": 1500
+    },
+    "Per Format": {
+        "JPEG": {
+            "session_type": "0",
+            "create_ultra_hdr": false
+        },
+        "PRIVATE_MFNR": {
+            "session_type": "0",
+            "create_ultra_hdr": false
+        },
+        "YUV_420_888": {
+            "session_type": "0"
+        },
+        "YCBCR_P010": {
+            "session_type": "0",
+            "create_ultra_hdr": false
+        },
+        "RAW_SENSOR": {
+            "session_type": "0",
+            "create_ultra_hdr": false
+        }
+    },
+    "Per Lens": {
+        "2": {
+            "custom_resolution": "None",
+            "noise_reduction_mode": "0",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "edge_mode": "0",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        },
+        "3": {
+            "custom_resolution": "None",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        },
+        "4": {
+            "custom_resolution": "None",
+            "noise_reduction_mode": "0",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "edge_mode": "0",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        },
+        "5": {
+            "custom_resolution": "None",
+            "noise_reduction_mode": "0",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "edge_mode": "0",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        },
+        "0": {
+            "custom_resolution": "None",
+            "noise_reduction_mode": "0",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "edge_mode": "0",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        },
+        "1": {
+            "custom_resolution": "None",
+            "noise_reduction_mode": "2",
+            "vignette_correction_mode": "2",
+            "hotpixel_correction_mode": "2",
+            "distortion_correction_mode": "2",
+            "aberration_correction_mode": "2",
+            "edge_mode": "2",
+            "custom_white_level": "-1",
+            "custom_black_level": "-1"
+        }
+    },
+    "Vendor Keys": {
+        "vendor_keys_early_loading": false,
+        "enable_vendor_keys": false,
+        "vendor_keys_json": "[{\"name\":\"com.xiaomi.lens.apertureMode\",\"type\":\"Int32\",\"value\":\"1\",\"enabled\":false},{\"name\":\"com.xiaomi.sessionparams.initAperture\",\"type\":\"Float\",\"value\":\"4.0\",\"enabled\":false},{\"name\":\"com.xiaomi.lens.aperture\",\"type\":\"Float\",\"value\":\"4.0\",\"enabled\":false},{\"name\":\"xiaomi.video.cinelook.enabled\",\"type\":\"Byte\",\"value\":\"1\",\"enabled\":false},{\"name\":\"org.codeaurora.qcamera3.sensor_meta_data.current_mode\",\"type\":\"Int32[]\",\"value\":\"4\",\"enabled\":true}]"
+    },
+    "Ideal RAW Settings": {
+        "ideal_raw_as_shot_neutral": "1.0 1.0 1.0",
+        "ideal_raw_white_level": "65535",
+        "ideal_raw_black_level": "0",
+        "ideal_raw_cb_info": "0 0 0 0 0 0 0 0",
+        "ideal_raw_size_info": "0 0 0 0 0 0 0 0"
+    },
+    "UI Settings": {
+        "show_horizon": false,
+        "show_histogram": false,
+        "show_grid": true,
+        "shutter_release_sound": false,
+        "shutter_release_vibration": false,
+        "show_indicators": true,
+        "show_flash_control": false,
+        "show_noise_edge_control": true
+    }
+}}
+}": true,
+        "show_flash_control": false
+    }
+}
