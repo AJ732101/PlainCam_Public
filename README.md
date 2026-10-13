@@ -81,5 +81,5 @@ Most controls/buttons have a second function aside from their primary purpose
 ## Other interesting (RAW based) Android Camera Apps
 [Photon Camera](https://github.com/eszdman/PhotonCamera)  
 [Rawr](https://github.com/adityawarmanfw/rawr/releases)  
-[RawLens](https://github.com/matthew777777/RawLens)  
+[RawLens](https://github.com/matthew777777/RawLens/releases)  
 [Unspektrawesome](https://github.com/EkinStrop/Unspektrawesome-Releases)
